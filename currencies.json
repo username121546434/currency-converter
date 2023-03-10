@@ -1,0 +1,147 @@
+[
+  {
+    "cc": "USD",
+    "symbol": "$",
+    "name": "United States dollar"
+  },
+  {
+    "cc": "JPY",
+    "symbol": "\u00a5",
+    "name": "Japanese yen"
+  },
+  {
+    "cc": "BGN",
+    "symbol": "BGN",
+    "name": "Bulgarian lev"
+  },
+  {
+    "cc": "CZK",
+    "symbol": "K\u010d",
+    "name": "Czech koruna"
+  },
+  {
+    "cc": "DKK",
+    "symbol": "Kr",
+    "name": "Danish krone"
+  },
+  {
+    "cc": "GBP",
+    "symbol": "\u00a3",
+    "name": "British pound"
+  },
+  {
+    "cc": "HUF",
+    "symbol": "Ft",
+    "name": "Hungarian forint"
+  },
+  {
+    "cc": "PLN",
+    "symbol": "z\u0142",
+    "name": "Polish zloty"
+  },
+  {
+    "cc": "RON",
+    "symbol": "L",
+    "name": "Romanian leu"
+  },
+  {
+    "cc": "SEK",
+    "symbol": "kr",
+    "name": "Swedish krona"
+  },
+  {
+    "cc": "CHF",
+    "symbol": "Fr.",
+    "name": "Swiss franc"
+  },
+  {
+    "cc": "ISK",
+    "symbol": "kr",
+    "name": "Icelandic kr\u00f3na"
+  },
+  {
+    "cc": "NOK",
+    "symbol": "kr",
+    "name": "Norwegian krone"
+  },
+  {
+    "cc": "TRY",
+    "symbol": "TRY",
+    "name": "Turkish new lira"
+  },
+  {
+    "cc": "AUD",
+    "symbol": "$",
+    "name": "Australian dollar"
+  },
+  {
+    "cc": "BRL",
+    "symbol": "R$",
+    "name": "Brazilian real"
+  },
+  {
+    "cc": "CAD",
+    "symbol": "$",
+    "name": "Canadian dollar"
+  },
+  {
+    "cc": "CNY",
+    "symbol": "\u00a5",
+    "name": "Chinese/Yuan renminbi"
+  },
+  {
+    "cc": "HKD",
+    "symbol": "HK$",
+    "name": "Hong Kong dollar"
+  },
+  {
+    "cc": "IDR",
+    "symbol": "Rp",
+    "name": "Indonesian rupiah"
+  },
+  {
+    "cc": "INR",
+    "symbol": "\u20b9",
+    "name": "Indian rupee"
+  },
+  {
+    "cc": "KRW",
+    "symbol": "W",
+    "name": "South Korean won"
+  },
+  {
+    "cc": "MXN",
+    "symbol": "$",
+    "name": "Mexican peso"
+  },
+  {
+    "cc": "MYR",
+    "symbol": "RM",
+    "name": "Malaysian ringgit"
+  },
+  {
+    "cc": "NZD",
+    "symbol": "NZ$",
+    "name": "New Zealand dollar"
+  },
+  {
+    "cc": "PHP",
+    "symbol": "\u20b1",
+    "name": "Philippine peso"
+  },
+  {
+    "cc": "SGD",
+    "symbol": "S$",
+    "name": "Singapore dollar"
+  },
+  {
+    "cc": "THB",
+    "symbol": "\u0e3f",
+    "name": "Thai baht"
+  },
+  {
+    "cc": "ZAR",
+    "symbol": "R",
+    "name": "South African rand"
+  }
+]
