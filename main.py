@@ -73,7 +73,7 @@ class MainWindow(QMainWindow):
 
         self.result_label = QLabel()
         self.result_label.setFont(font)
-        layout.addWidget(self.result_label, 2, 0, 3, 1)
+        layout.addWidget(self.result_label, 2, 0, 1, 3)
 
         self.setGeometry(30, 30, 700, 200)
     
@@ -94,7 +94,7 @@ class MainWindow(QMainWindow):
             if choice == QMessageBox.StandardButton.Retry:
                 self.on_change()
         else:
-            self.result_label.setText(f'{currency_from_amount} {currency_from} = {converted} {currency_to}')
+            self.result_label.setText(f'{currency_from_amount:.2f} {currency_from} = {converted:.2f} {currency_to}')
 
 
 def main():
