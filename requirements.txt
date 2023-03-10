@@ -1,0 +1,2 @@
+forex_python==1.8
+PyQt6==6.4.2
